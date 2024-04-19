@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">android course Group 2</string>
+
+    <string name="login">Login</string>
+    <string name="hello_back">Hello there, \nwelcome Back</string>
+    <string name="sign_in">sign in to continue</string>
+    <string name="user_name">User Name</string>
+    <string name="password">password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="go">GO</string>
+    <string name="new_user">New User? Sign Up</string>
+
+</resources>
