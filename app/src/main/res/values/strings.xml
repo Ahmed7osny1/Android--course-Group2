@@ -10,4 +10,27 @@
     <string name="go">GO</string>
     <string name="new_user">New User? Sign Up</string>
 
+
+    <string name="bathrooms">Bathrooms:</string>
+    <string name="bedrooms">Bedrooms:</string>
+    <string name="buy">Buy</string>
+    <string name="car_spaces">Car Spaces:</string>
+    <string name="price">Price:</string>
+    <string name="property_image">Property Image</string>
+    <string name="property_type">Property Type:</string>
+    <string name="rent">Rent</string>
+    <string name="search">Search</string>
+    <string name="state">State:</string>
+    <string name="suburb">Suburb:</string>
+    <string name="suburb_hint">Name of suburb</string>
+    <string name="from_hint">from</string>
+    <string name="to_hint">to</string>
+
+
+    <string-array name="property_type">
+        <item>Apartment</item>
+        <item>House</item>
+        <item>Land</item>
+    </string-array>
+
 </resources>
